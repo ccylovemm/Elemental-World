@@ -53,8 +53,8 @@
 
 欢迎加入我们的社区参与讨论或提交玩家反馈：
 
-* 💬 **玩家社区论坛 / Discussions**：前往 [GitHub Discussions](https://github.com/your-username/Elemental-World/discussions) 与其他玩家交流心得、提出更新建议。
-* 🐛 **提交 Bug 反馈 / Report a Bug**：如果在游戏中遇到问题，请前往 [GitHub Issues](https://github.com/your-username/Elemental-World/issues/new) 按格式提交错误报告。
+* 💬 **玩家社区论坛 / Discussions**：前往 [GitHub Discussions](https://github.com/ccylovemm/Elemental-World/discussions) 与其他玩家交流心得、提出更新建议。
+* 🐛 **提交 Bug 反馈 / Report a Bug**：如果在游戏中遇到问题，请前往 [GitHub Issues](https://github.com/ccylovemm/Elemental-World/issues) 按格式提交错误报告。
 
 ---
 

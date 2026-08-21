@@ -57,5 +57,3 @@
 * 🐛 **提交 Bug 反馈 / Report a Bug**：如果在游戏中遇到问题，请前往 [GitHub Issues](https://github.com/ccylovemm/Elemental-World/issues) 按格式提交错误报告。
 
 ---
-
-> 💡 *提示：请将文档中的 `your-username` 替换为你实际的 GitHub 账号名称。*
